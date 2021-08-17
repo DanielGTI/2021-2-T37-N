@@ -43,7 +43,8 @@ No **Titulo** do email informar apenas: **Entrega T37-projeto**
 
     
 ## Professor
-Prof. Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf@uni9.pro.br))
+Prof.  Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf@uni9.pro.br))
+Profa. Eliane Aparecida Peixoto Favilla. - ([efavilla@uni9.pro.br](mailto:efavilla@uni9.pro.br))
 
 ## Contato
 Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(T37-projeto)** no título da mensagem.
